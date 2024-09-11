@@ -32,11 +32,11 @@ print(f"Telefone do usuário: {usuario.telefone}.")
 print(f"E-mail do usuário: {usuario.email}.")
 
 print(f"{"-"*30} DADOS DO USUARIO {"-"*30}")
-print(f"Nome da empresa: {usuario.nome}.")
-print(f"Razão Social da empresa: {usuario.cpf}.")
-print(f"CNPJ da empresa: {usuario.peso}.")
-print(f"Cidade sede da empresa: {usuario.altura}.")
-print(f"Telefone da empresa: {usuario.cidade}.")
-print(f"E-mail da empresa: {usuario.telefone}.")
+print(f"Nome da empresa: {empresa.nome_fantasia}.")
+print(f"Razão Social da empresa: {empresa.razao_social}.")
+print(f"CNPJ da empresa: {empresa.cnpj}.")
+print(f"Cidade sede da empresa: {empresa.cidade}.")
+print(f"Telefone da empresa: {empresa.telefone}.")
+print(f"E-mail da empresa: {empresa.email}.")
 
 
