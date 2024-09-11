@@ -38,5 +38,3 @@ print(f"CNPJ da empresa: {empresa.cnpj}.")
 print(f"Cidade sede da empresa: {empresa.cidade}.")
 print(f"Telefone da empresa: {empresa.telefone}.")
 print(f"E-mail da empresa: {empresa.email}.")
-
-
